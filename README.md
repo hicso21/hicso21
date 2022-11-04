@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thomas Villaverde, I'm Full Stack Developer, and I am looking for a job.
-- 👀 I am interested in both front and back, I am learning to use angular, and later I would like to continue learning different framworks, both front and back.
+- 👀 I am interested in both front and back, I am learning to use angular, and later I would like to continue learning different frameworks.
 - 💞️ I’m looking to collaborate on a proyect or start working in a company
 - 📫 How to reach me: 
 - Portfolio: https://hicso-portfolio.netlify.app/
