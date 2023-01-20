@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Thomas Villaverde, I'm Full Stack Developer, and I am looking for a job.
-- 👀 I am interested in both front and back, I am learning to use Next, and later I would like to continue learning different frameworks.
-- 💞️ I’m looking to collaborate on a proyect or start working in a company
+- 👋 Hi, I’m Thomas Villaverde, I'm from argentina and I'm a Full Stack Javascript Developer.
+- 👀 I am working on an integration project with Hubspot & Synxis.
+- 💞️ I am looking for a job where we can all progress as a team and as individuals.
 - 📫 How to reach me: 
 - Portfolio: https://hicso-portfolio.netlify.app/
 - Email: tv21102000@gmail.com
+- Phone Number: +5492262471384
 
 <!---
 hicso21/hicso21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
