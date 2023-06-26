@@ -3,7 +3,7 @@
 - 💞️ I am looking for a job where we can all progress as a team and as individuals.
 - 📫 How to reach me: 
 - Portfolio: https://hicso-portfolio.netlify.app/
-- Email: tv21102000@gmail.com
+- Email: hicso.dev@gmail.com
 - Phone Number: +5492262471384
 
 <!---
