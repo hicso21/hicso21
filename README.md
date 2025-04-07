@@ -3,6 +3,7 @@
 - 💞️ I am looking for a job where we can all progress as a team and as individuals.
 - 📫 How to reach me: 
 - Email: hicso.dev@gmail.com
+- Portolio: https://hicso.netlify.app/
 - Phone Number: +5492262471384
 
 <!---
